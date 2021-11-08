@@ -154,7 +154,7 @@ def task3():
 
 """
 Info:
-Rating system is out of 5.
+Rating system is 0-4.
 An insult has an average sentiment of less than 
 1.75, while a compliment has an average sentiment of more than 2.25.
 """
